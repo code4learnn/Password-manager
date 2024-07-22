@@ -9,7 +9,7 @@ const Footer=()=>{
             
             </div>
             <div className="flex justify-right items-right  ">
-            Made by <img  className=" w-7 mx-2  " src="icons/heart.png" alt="" /> by code4learnn
+            Made by <img  className=" w-7 mx-2  " src="icons/heart.png" alt="" /> code4learnn
             </div>
         </div>
     )

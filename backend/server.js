@@ -20,7 +20,7 @@ const port = 3000
 
 // Middleware
 app.use(bodyparser.json())
-app.use(cors())
+app.use(cors("https://passwordmanager-lovat.vercel.app"))
 
 
 // Get all the passwords

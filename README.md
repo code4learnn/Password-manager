@@ -1,7 +1,7 @@
 
 # Password manager
 
-The Password Manager is a secure web application designed to help users store and manage their passwords efficiently. Built with React.js for the frontend and MongoDB for the backend, this application ensures a seamless and secure user experience.
+The Password Manager is a secure web application designed to help users store and manage their passwords efficiently. Built with React.js for the frontend and MongoDB for the database, this application ensures a seamless and secure user experience.
 
 ![image](https://github.com/user-attachments/assets/08de51a7-04d1-4268-8018-6e745adfdb23)
 
